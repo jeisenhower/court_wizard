@@ -4,7 +4,7 @@ Last updated August 03, 2021
 
 
 
-Thank you for choosing to be part of our community at Logistechs Mobile ("Company," "we," "us," or "our"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice or our practices with regard to your personal information, please contact us at logistechsmobile@gmail.com.
+My name is Joel Eisenhower, and I am the developer behind Court Wizard ("Company," "we," "us," or "our"). Thank you for choosing to be part of our community. We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice or our practices with regard to your personal information, please contact us at logistechsmobile@gmail.com.
 
 This privacy notice describes how we might use your information if you:
 Download and use our mobile application — Court Wizard
